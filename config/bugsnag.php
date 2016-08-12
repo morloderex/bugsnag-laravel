@@ -98,7 +98,7 @@ return [
     |
     */
 
-    'events' => env('BUGSNAG_EVENTS', true),
+    'events' => env('BUGSNAG_EVENTS', false),
 
     /*
     |--------------------------------------------------------------------------
